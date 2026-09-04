@@ -67,6 +67,21 @@ Hệ thống quản lý cửa hàng đồ trẻ em — quản lý sản phẩm, 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐦 [twitterProject](https://github.com/ThuaanNguyeen111/twitterProject)
+Personal Project
+
+Ứng dụng clone mạng xã hội kiểu Twitter, có tích hợp đăng nhập Google OAuth.
+
+`Node.js` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <details>

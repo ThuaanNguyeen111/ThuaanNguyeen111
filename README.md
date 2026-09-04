@@ -20,7 +20,7 @@ Tôi là kỹ sư phần mềm định hướng Full-Stack Development, hiện h
 
 Kinh nghiệm đã triển khai:
 - Đảm nhiệm vai trò Leader cho đội 5 thành viên xây dựng OptiPackAI — hệ thống hỗ trợ ra quyết định bằng AI cho doanh nghiệp bán hàng đa kênh, ứng dụng thuật toán AI 3D Bin Packing nhằm tối ưu vật liệu đóng gói và giảm chi phí vận chuyển
-- Đảm nhiệm FullStack Developer trong đội phát triển EDUMEE — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai production tại [edumee.me](https://edumee.me)
+- Đảm nhiệm Frontend Developer trong đội phát triển EDUMEE — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai production tại [edumee.me](https://edumee.me)
 - Xây dựng DonateBlood — hệ thống quản lý hiến máu full-stack với 758 commit, thiết kế phân quyền theo 4 vai trò người dùng
 
 Trọng tâm hiện tại:
@@ -50,7 +50,7 @@ Hệ thống AI hỗ trợ tối ưu đóng gói cho thương mại điện tử
 <td width="50%" valign="top">
 
 ### 🎓 [EDUMEE](https://github.com/hoangtruong01/EDUMEE--Career-made-for-you)
-FullStack Developer · Team Project
+Frontend Developer · Team Project
 
 Nền tảng hướng nghiệp cho sinh viên Việt Nam.
 [🔗 Live Demo](https://edumee.me)
@@ -117,16 +117,6 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 <img height="165" src="https://github-readme-stats-alpha-six-92.vercel.app/api/top-langs/?username=ThuaanNguyeen111&layout=compact&hide_border=true&theme=blue-green" />
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ThuaanNguyeen111&hide_border=true&background=00000000&ring=0A66C2&fire=4CA1AF&currStreakLabel=0A66C2" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThuaanNguyeen111&theme=react-dark&hide_border=true&bg_color=00000000&color=4CA1AF&line=0A66C2&point=ffffff" width="100%"/>
-
-</div>
-
-## Danh hiệu đóng góp
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThuaanNguyeen111&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 

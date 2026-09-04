@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:4CA1AF&height=200&section=header&text=Nguyễn%20Phương%20Mỹ%20Thuận&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;NestJS+%2B+React+%2B+AI;Leader+at+OptiPackAI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Kiến+trúc+hệ+thống+NestJS+%2B+React;Ứng+dụng+AI+trong+vận+hành+doanh+nghiệp;Leader+tại+OptiPackAI" />
 
 FPT University · Ho Chi Minh City, Vietnam
 
@@ -16,24 +16,24 @@ FPT University · Ho Chi Minh City, Vietnam
 
 ## Giới thiệu
 
-Tôi là sinh viên năm cuối ngành Kỹ thuật phần mềm tại FPT University, tập trung vào phát triển full-stack với React/Next.js và NestJS/Node.js.
+Tôi là kỹ sư phần mềm định hướng Full-Stack Development, hiện hoàn thiện chương trình Kỹ thuật phần mềm tại FPT University. Trọng tâm chuyên môn của tôi là thiết kế và triển khai hệ thống backend trên nền NestJS/Node.js kết hợp giao diện React/Next.js, với kinh nghiệm thực tế dẫn dắt một đội phát triển sản phẩm ứng dụng AI vào bài toán vận hành doanh nghiệp.
 
-**Đã làm được:**
-- Dẫn dắt đội 5 người xây dựng OptiPackAI — hệ thống AI tối ưu đóng gói cho bán hàng đa kênh, dùng thuật toán AI 3D Bin Packing để giảm chi phí vận chuyển do đóng gói quá khổ
-- Là Frontend Developer trong đội phát triển EDUMEE — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai tại [edumee.me](https://edumee.me)
-- Xây dựng DonateBlood — nền tảng quản lý hiến máu full-stack với 758 commit, phân quyền theo 4 vai trò người dùng
+**Kinh nghiệm đã triển khai:**
+- Đảm nhiệm vai trò Leader cho đội 5 thành viên xây dựng **OptiPackAI** — hệ thống hỗ trợ ra quyết định bằng AI cho doanh nghiệp bán hàng đa kênh, ứng dụng thuật toán AI 3D Bin Packing nhằm tối ưu vật liệu đóng gói và giảm chi phí vận chuyển
+- Đảm nhiệm Fullstack Developer trong đội phát triển **EDUMEE** — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai production tại [edumee.me](https://edumee.me)
+- Xây dựng **DonateBlood** — hệ thống quản lý hiến máu full-stack với 758 commit, thiết kế phân quyền theo 4 vai trò người dùng
 
-**Đang làm:**
-- Hoàn thiện OptiPackAI cho kỳ báo cáo capstone (09/2026 – 03/2027)
-- Tìm hiểu sâu về AI Agent (Claude, LLM orchestration) để ứng dụng vào các sản phẩm đang phát triển
+**Trọng tâm hiện tại:**
+- Hoàn thiện OptiPackAI cho kỳ báo cáo capstone (09/2026 – 12/2026)
+- Nghiên cứu ứng dụng AI Agent (Claude, LLM orchestration) vào quy trình vận hành sản phẩm
 
-**Định hướng tiếp theo:**
+**Định hướng phát triển:**
 - Tìm kiếm cơ hội thực tập/việc làm vị trí Full-Stack Developer
-- Đào sâu kiến trúc hệ thống quy mô lớn (system design), CI/CD và triển khai cloud
+- Đào sâu năng lực thiết kế hệ thống quy mô lớn (system design), CI/CD và triển khai hạ tầng cloud
 
 ---
 
-## Dự án nổi bật
+## Dự án tiêu biểu
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Hệ thống AI hỗ trợ tối ưu đóng gói cho thương mại điện tử
 <td width="50%" valign="top">
 
 ### 🎓 [EDUMEE](https://github.com/hoangtruong01/EDUMEE--Career-made-for-you)
-**Frontend Developer** · Team Project
+**Fullstack Developer** · Team Project
 
 Nền tảng hướng nghiệp cho sinh viên Việt Nam.
 [🔗 Live Demo](https://edumee.me)
@@ -85,7 +85,7 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 
 ---
 
-## Kỹ năng kỹ thuật
+## Năng lực kỹ thuật
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 
 ---
 
-## Thống kê GitHub
+## Thống kê hoạt động
 
 <div align="center">
 
@@ -105,6 +105,16 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 <img height="165" src="https://github-readme-stats-alpha-six-92.vercel.app/api/top-langs/?username=ThuaanNguyeen111&layout=compact&hide_border=true&theme=blue-green" />
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ThuaanNguyeen111&hide_border=true&background=00000000&ring=0A66C2&fire=4CA1AF&currStreakLabel=0A66C2" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThuaanNguyeen111&theme=react-dark&hide_border=true&bg_color=00000000&color=4CA1AF&line=0A66C2&point=ffffff" width="100%"/>
+
+</div>
+
+## Danh hiệu đóng góp
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ThuaanNguyeen111&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 

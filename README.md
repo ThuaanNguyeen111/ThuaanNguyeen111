@@ -1,6 +1,10 @@
-# Nguyễn Phương Mỹ Thuận
+<div align="center">
 
-Full-Stack Developer · FPT University · Ho Chi Minh City, Vietnam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=200&section=header&text=Nguyễn%20Phương%20Mỹ%20Thuận&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+FPT University · Ho Chi Minh City, Vietnam
 
 [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-phuong-my-811b9b350/) · [Email](mailto:noreply.optipacka@gmail.com)
 
@@ -64,9 +68,19 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 
 ## Thống kê GitHub
 
+<div align="center">
+
 <img height="150" src="https://github-readme-stats-alpha-six-92.vercel.app/api?username=ThuaanNguyeen111&show_icons=true&hide_border=true&theme=default" />
 <img height="150" src="https://github-readme-stats-alpha-six-92.vercel.app/api/top-langs/?username=ThuaanNguyeen111&layout=compact&hide_border=true&theme=default" />
 
+</div>
+
 ---
 
-Liên hệ qua [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-phuong-my-811b9b350/) hoặc [email](mailto:noreply.optipacka@gmail.com).
+<div align="center">
+
+Liên hệ qua [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-phuong-my-811b9b350/) hoặc [email](mailto:noreply.optipacka@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:2C3E50&height=100&section=footer" width="100%"/>
+
+</div>

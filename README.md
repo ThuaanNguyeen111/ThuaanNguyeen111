@@ -1,127 +1,72 @@
-<div align="center">
+# Nguyễn Phương Mỹ Thuận
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=220&section=header&text=Xin%20chào,%20mình%20là%20Thuận%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+Full-Stack Developer · FPT University · Ho Chi Minh City, Vietnam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Always+learning+new+things" />
+[LinkedIn](https://www.linkedin.com/in/thuan-nguyen-phuong-my-811b9b350/) · [Email](mailto:noreply.optipacka@gmail.com)
 
-</div>
+---
 
-## 🙋‍♂️ Về mình
+## Giới thiệu
 
-- 🎓 Đang học tại: FPT University
-- 💼 Vai trò: Full-Stack Developer
-- 🌱 Đang tìm hiểu: Next.js, NestJS, AI Agents với Claude
-- 📍 Địa điểm: Việt Nam
-- 💬 Liên hệ mình qua:
+Tôi là sinh viên năm cuối ngành Kỹ thuật phần mềm tại FPT University, tập trung vào phát triển full-stack với React/Next.js và NestJS/Node.js.
 
-<div align="center">
+**Đã làm được:**
+- Dẫn dắt đội 5 người xây dựng OptiPackAI — hệ thống AI tối ưu đóng gói cho bán hàng đa kênh, dùng thuật toán AI 3D Bin Packing để giảm chi phí vận chuyển do đóng gói quá khổ
+- Là Frontend Developer trong đội phát triển EDUMEE — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai tại [edumee.me](https://edumee.me)
+- Xây dựng DonateBlood — nền tảng quản lý hiến máu full-stack với 758 commit, phân quyền theo 4 vai trò người dùng
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noreply.optipacka@gmail.com)
+**Đang làm:**
+- Hoàn thiện OptiPackAI cho kỳ báo cáo capstone (09/2026 – 03/2027)
+- Tìm hiểu sâu về AI Agent (Claude, LLM orchestration) để ứng dụng vào các sản phẩm đang phát triển
 
-</div>
+**Định hướng tiếp theo:**
+- Tìm kiếm cơ hội thực tập/việc làm vị trí Full-Stack Developer
+- Đào sâu kiến trúc hệ thống quy mô lớn (system design), CI/CD và triển khai cloud
 
-## 🚀 Featured Projects
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Dự án nổi bật
 
-### 📦 [OptiPackAI](https://github.com/ThuaanNguyeen111/OptiPackAI)
-**Leader** · Capstone Project FA26SE036 · Team of 5
-
-Hệ thống nội bộ hỗ trợ AI cho doanh nghiệp bán hàng đa kênh: đồng bộ đơn hàng từ Shopee/TikTok Shop, gộp đơn trùng lặp, và dùng **AI 3D Bin Packing** để gợi ý kích thước thùng/vật liệu đóng gói tối ưu — giảm 10-15% chi phí ship do đóng gói quá khổ.
-
+**OptiPackAI** — *Leader, Capstone Project*
+Hệ thống AI hỗ trợ tối ưu đóng gói cho thương mại điện tử đa kênh (Shopee, TikTok Shop).
 `NestJS` `React` `Flutter` `MongoDB` `Docker`
+[Repository](https://github.com/ThuaanNguyeen111/OptiPackAI)
 
-</td>
-<td width="50%" valign="top">
-
-### 🩸 [DonateBlood](https://github.com/ThuaanNguyeen111/DonateBlood)
-**758 commits** · Full-stack Capstone
-
-Nền tảng quản lý hiến máu cho cơ sở y tế: đặt lịch hẹn hiến máu, yêu cầu máu khẩn cấp, tìm người hiến/nhận theo khoảng cách, phân quyền theo 4 vai trò (Member/Nurse/Admin/Guest).
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [EDUMEE](https://github.com/hoangtruong01/EDUMEE--Career-made-for-you)
-**Frontend Developer** · Team Project
-
-Nền tảng hướng nghiệp cho giới trẻ Việt Nam — giúp sinh viên khám phá định hướng nghề nghiệp, học kỹ năng, kết nối mentor và nhà tuyển dụng.
-
+**EDUMEE — Career Made For You** — *Frontend Developer*
+Nền tảng hướng nghiệp cho sinh viên và người trẻ Việt Nam, kết nối mentor và nhà tuyển dụng.
 `Next.js 16` `React 19` `NestJS` `MongoDB` `Redis`
+[Live Demo](https://edumee.me) · [Repository](https://github.com/hoangtruong01/EDUMEE--Career-made-for-you)
 
-</td>
-<td width="50%" valign="top">
+**DonateBlood** — *Full-stack Developer*
+Nền tảng quản lý hiến máu cho cơ sở y tế: đặt lịch, yêu cầu khẩn cấp, tìm kiếm theo khoảng cách.
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
+[Repository](https://github.com/ThuaanNguyeen111/DonateBlood)
 
-### 👶 [BabyProduction](https://github.com/ThuaanNguyeen111/BabyProduction)
-Personal Project
-
-Hệ thống quản lý cửa hàng đồ trẻ em — quản lý sản phẩm, đơn hàng và vận hành cửa hàng.
-
+**BabyProduction** — *Personal Project*
+Hệ thống quản lý cửa hàng đồ trẻ em.
 `Node.js` `TypeScript`
+[Repository](https://github.com/ThuaanNguyeen111/BabyProduction)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🐦 [twitterProject](https://github.com/ThuaanNguyeen111/twitterProject)
-Personal Project
+## Kỹ năng kỹ thuật
 
-Ứng dụng clone mạng xã hội kiểu Twitter, có tích hợp đăng nhập Google OAuth.
+| Nhóm | Công nghệ |
+|---|---|
+| Ngôn ngữ | JavaScript, TypeScript, Java |
+| Frontend | React, Next.js, Flutter |
+| Backend | Node.js, NestJS, Express |
+| Cơ sở dữ liệu | MongoDB, Redis |
+| DevOps | Docker, Git, GitHub Actions |
+| Công cụ | VS Code, Postman, Figma |
 
-`Node.js` `TypeScript`
+---
 
-</td>
-<td width="50%" valign="top">
+## Thống kê GitHub
 
-</td>
-</tr>
-</table>
+<img height="150" src="https://github-readme-stats-alpha-six-92.vercel.app/api?username=ThuaanNguyeen111&show_icons=true&hide_border=true&theme=default" />
+<img height="150" src="https://github-readme-stats-alpha-six-92.vercel.app/api/top-langs/?username=ThuaanNguyeen111&layout=compact&hide_border=true&theme=default" />
 
-<details>
-<summary>🎮 Xem thêm — VNR202-T (Mini Game)</summary>
-<br>
+---
 
-**[VNR202-T](https://github.com/ThuaanNguyeen111/VNR202-T)** — Game ghép chữ nhiều người chơi, có hệ thống xếp hạng (ranking) sau mỗi ván, tích hợp âm thanh trong lúc chơi. Xây bằng `React` + `Vite`.
-
-</details>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Languages](https://skillicons.dev/icons?i=js,ts,java,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flutter)
-![Databases & Cloud](https://skillicons.dev/icons?i=mongodb,redis,docker)
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-alpha-six-92.vercel.app/api?username=ThuaanNguyeen111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-alpha-six-92.vercel.app/api/top-langs/?username=ThuaanNguyeen111&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/ThuaanNguyeen111/ThuaanNguyeen111/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:80D0C7,100:0093E9&height=120&section=footer" width="100%"/>
-
-</div>
+Liên hệ qua [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-phuong-my-811b9b350/) hoặc [email](mailto:noreply.optipacka@gmail.com).

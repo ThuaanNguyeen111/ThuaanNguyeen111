@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=220&section=header&text=Xin%20chào,%20mình%20là%20Thuấn%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:80D0C7&height=220&section=header&text=Xin%20chào,%20mình%20là%20Thuận%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Always+learning+new+things" />
 

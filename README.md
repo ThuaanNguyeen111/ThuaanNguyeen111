@@ -18,16 +18,16 @@ FPT University · Ho Chi Minh City, Vietnam
 
 Tôi là kỹ sư phần mềm định hướng Full-Stack Development, hiện hoàn thiện chương trình Kỹ thuật phần mềm tại FPT University. Trọng tâm chuyên môn của tôi là thiết kế và triển khai hệ thống backend trên nền NestJS/Node.js kết hợp giao diện React/Next.js, với kinh nghiệm thực tế dẫn dắt một đội phát triển sản phẩm ứng dụng AI vào bài toán vận hành doanh nghiệp.
 
-**Kinh nghiệm đã triển khai:**
-- Đảm nhiệm vai trò Leader cho đội 5 thành viên xây dựng **OptiPackAI** — hệ thống hỗ trợ ra quyết định bằng AI cho doanh nghiệp bán hàng đa kênh, ứng dụng thuật toán AI 3D Bin Packing nhằm tối ưu vật liệu đóng gói và giảm chi phí vận chuyển
-- Đảm nhiệm Fullstack Developer trong đội phát triển **EDUMEE** — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai production tại [edumee.me](https://edumee.me)
-- Xây dựng **DonateBlood** — hệ thống quản lý hiến máu full-stack với 758 commit, thiết kế phân quyền theo 4 vai trò người dùng
+Kinh nghiệm đã triển khai:
+- Đảm nhiệm vai trò Leader cho đội 5 thành viên xây dựng OptiPackAI — hệ thống hỗ trợ ra quyết định bằng AI cho doanh nghiệp bán hàng đa kênh, ứng dụng thuật toán AI 3D Bin Packing nhằm tối ưu vật liệu đóng gói và giảm chi phí vận chuyển
+- Đảm nhiệm FullStack Developer trong đội phát triển EDUMEE — nền tảng hướng nghiệp cho giới trẻ Việt Nam, hiện đã triển khai production tại [edumee.me](https://edumee.me)
+- Xây dựng DonateBlood — hệ thống quản lý hiến máu full-stack với 758 commit, thiết kế phân quyền theo 4 vai trò người dùng
 
-**Trọng tâm hiện tại:**
-- Hoàn thiện OptiPackAI cho kỳ báo cáo capstone (09/2026 – 12/2026)
+Trọng tâm hiện tại:
+- Hoàn thiện OptiPackAI cho kỳ báo cáo capstone (09/2026 – 03/2027)
 - Nghiên cứu ứng dụng AI Agent (Claude, LLM orchestration) vào quy trình vận hành sản phẩm
 
-**Định hướng phát triển:**
+Định hướng phát triển:
 - Tìm kiếm cơ hội thực tập/việc làm vị trí Full-Stack Developer
 - Đào sâu năng lực thiết kế hệ thống quy mô lớn (system design), CI/CD và triển khai hạ tầng cloud
 
@@ -40,7 +40,7 @@ Tôi là kỹ sư phần mềm định hướng Full-Stack Development, hiện h
 <td width="50%" valign="top">
 
 ### 📦 [OptiPackAI](https://github.com/ThuaanNguyeen111/OptiPackAI)
-**Leader** · Capstone Project
+Leader · Capstone Project
 
 Hệ thống AI hỗ trợ tối ưu đóng gói cho thương mại điện tử đa kênh (Shopee, TikTok Shop).
 
@@ -50,7 +50,7 @@ Hệ thống AI hỗ trợ tối ưu đóng gói cho thương mại điện tử
 <td width="50%" valign="top">
 
 ### 🎓 [EDUMEE](https://github.com/hoangtruong01/EDUMEE--Career-made-for-you)
-**Fullstack Developer** · Team Project
+FullStack Developer · Team Project
 
 Nền tảng hướng nghiệp cho sinh viên Việt Nam.
 [🔗 Live Demo](https://edumee.me)
@@ -63,7 +63,7 @@ Nền tảng hướng nghiệp cho sinh viên Việt Nam.
 <td width="50%" valign="top">
 
 ### 🩸 [DonateBlood](https://github.com/ThuaanNguyeen111/DonateBlood)
-**758 commits** · Full-stack Capstone
+758 commits · Full-stack Capstone
 
 Quản lý hiến máu: đặt lịch, yêu cầu khẩn cấp, tìm kiếm theo khoảng cách.
 
@@ -89,9 +89,21 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=js,ts,java,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flutter)
-![Databases & Tools](https://skillicons.dev/icons?i=mongodb,redis,docker,git,github)
+<sub>💻 Ngôn ngữ lập trình</sub>
+
+![Languages](https://skillicons.dev/icons?i=js,ts,java,cpp,html,css)
+
+<sub>🚀 Frameworks & Thư viện</sub>
+
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flutter,vue)
+
+<sub>🗄️ Cơ sở dữ liệu & Cloud</sub>
+
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws)
+
+<sub>🛠️ Công cụ & DevOps</sub>
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode)
 
 </div>
 
@@ -127,6 +139,8 @@ Hệ thống quản lý cửa hàng đồ trẻ em.
 </div>
 
 <div align="center">
+
+Liên hệ qua [LinkedIn](https://www.linkedin.com/in/thuan-nguyen-phuong-my-811b9b350/) hoặc [email](mailto:noreply.optipacka@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:0A66C2&height=120&section=footer" width="100%"/>
 
